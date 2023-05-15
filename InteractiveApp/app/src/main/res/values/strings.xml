@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Interactive App</string>
+    <string name="dark_button">Dark</string>
+    <string name="light_button">Light</string>
+</resources>

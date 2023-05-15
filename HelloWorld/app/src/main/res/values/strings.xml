@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="upload_button">Upload</string>
+    <string name="download_button">Download</string>
+</resources>
